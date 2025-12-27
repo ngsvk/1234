@@ -1,0 +1,4 @@
+project_id = "daecpzrvebevgpivfjuo"
+
+[functions.portal-login]
+verify_jwt = false
